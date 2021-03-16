@@ -1,1 +1,3 @@
-# Board_Game_Refugee
+# Board_Game_Refugeoly
+Authors:
+Motsi Polyxeni & Benakidis Ioannis
