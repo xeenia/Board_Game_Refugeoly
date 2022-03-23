@@ -1,3 +1,5 @@
 # Board_Game_Refugeoly
-Authors:
-Motsi Polyxeni & Benakidis Ioannis
+
+Me and my colleague, @GiannisBen, wrote this University program for the subject "Object-Oriented Programming"
+<br/>We wrote it in Java and we used the Netbeans software.
+
